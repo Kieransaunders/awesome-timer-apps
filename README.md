@@ -66,6 +66,7 @@ Apps focused on logging time across projects, clients, or tasks.
 - **[Focus To-Do](https://www.focustodo.cn)** — iOS, Android, and Apple Watch. Task + Pomodoro hybrid.
 - **[iTimedIT](https://itimedit.com)** — iOS, Android, Mac, Windows, and watchOS companion app.
 - **[Llama Life](https://llamalife.co)** — ADHD-friendly task and timer app with a minimal, calm interface.
+- **[Ripple](https://ripplefocus.github.io/en/)** — Android and iOS 16+ focus timer that blocks short-video apps until the countdown ends, with a 15-minute cooldown before rules can be changed. Local-only, no ads.
 
 ---
 
